@@ -10,7 +10,6 @@ Table Discription:
 create table student_master
 (
 rollno int PRIMARY KEY,
-name varchar(25) ,
-
+name varchar(25)
 );
 
