@@ -9,7 +9,8 @@ Table Discription:
 
 create table student_master
 (
-name varchar(25) PRIMARY KEY,
-rollno int
+rollno int PRIMARY KEY,
+name varchar(25) ,
+
 );
 
